@@ -1,1 +1,1 @@
-# i-dj-api
+# idj-api
